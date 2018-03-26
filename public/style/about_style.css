@@ -1,0 +1,40 @@
+#background {
+  position: absolute;
+  width:100%;
+  height:100%;
+  top: 0px;
+  left: 0px;
+  background-image: url("http://backgroundcheckall.com/wp-content/uploads/2017/12/minimalist-computer-background-5.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#about_content {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top: -25%;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  color: white;
+}
+
+.div_content {
+  text-align: center;
+}
+
+#bio_content {
+  position: absolute;
+  width: 30%;
+  height: 30%;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 60%;
+  margin: auto;
+  border-style: solid;
+  border-radius: 10px;
+}

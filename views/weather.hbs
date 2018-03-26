@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Weather</title>
+    <link href="style/layout.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <a href="http://localhost:8080/main">Home</a>
+    <a href="http://localhost:8080/about">About</a>
+    <h2>Weather Information - {{location}}</h2>
+    <div id="weather_div">
+      <h3>Summary: {{summary}}</h3>
+      <h3>Temperature: {{temperature}}</h3>
+      <h3>Timezone: {{timezone}}</h3>
+    </div>
+  </body>
+
+    {{> footer}}
+
+</html>

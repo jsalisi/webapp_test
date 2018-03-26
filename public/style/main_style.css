@@ -1,0 +1,30 @@
+#background {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  background-image: url('https://lh6.ggpht.com/sNz9MNJ78ZFiAt98t3v8qjH1boncSDJQvljlZnFlCNyd6D03mt9GKdFQVm2-CALaUw=h900');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#redirect_about {
+  position: absolute;
+  width: 10%;
+  top: 10%;
+  bottom: 0px;
+  left: -10%;
+  right: 0px;
+  margin: auto;
+}
+
+#redirect_weather {
+  position: absolute;
+  width: 10%;
+  top: 10%;
+  bottom: 0px;
+  left: 10%;
+  right: 0px;
+  margin: auto;
+}
